@@ -28,7 +28,12 @@ Scripts, configurations, and practical Linux system management examples.
 
 ### Troubleshooting Diary
 [linux-troubleshooting-diary](https://github.com/jarade254/linux-troubleshooting-diary)  
-Step-by-step logs of real issues solved, demonstrating problem-solving skills.
+Step-by-step logs of real issues solved, demonstrating problem-solving skills:
+
+- SSH Connection Issue: [View Entry](https://github.com/jarade254/linux-troubleshooting-diary/blob/main/entries/2026-02-01-ssh-issue.md)  
+- Disk Space Full Issue: [View Entry](https://github.com/jarade254/linux-troubleshooting-diary/blob/main/entries/2026-02-05-disk-space.md)  
+- Network Service Failure: [View Entry](https://github.com/jarade254/linux-troubleshooting-diary/blob/main/entries/2026-02-08-network-service-failure.md)
+
 
 ---
 
