@@ -24,7 +24,10 @@ Motivated IT professional with strong Linux system administration, networking, a
 ## Projects & Repos
 ### Linux Admin Showcase
 [jared-linux-admin](https://github.com/jarade254/jared-linux-admin)  
-Scripts, configurations, and practical Linux system management examples.
+Scripts, configurations, and practical Linux system management examples:
+
+- Create User Script: [create_user.sh](https://github.com/jarade254/jared-linux-admin/blob/main/scripts/create_user.sh) – adds a Linux user, sets a password, and assigns sudo privileges (lab exercise)
+
 
 ### Troubleshooting Diary
 [linux-troubleshooting-diary](https://github.com/jarade254/linux-troubleshooting-diary)  
