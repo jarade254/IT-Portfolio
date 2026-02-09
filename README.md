@@ -27,6 +27,8 @@ Motivated IT professional with strong Linux system administration, networking, a
 Scripts, configurations, and practical Linux system management examples:
 
 - Create User Script: [create_user.sh](https://github.com/jarade254/jared-linux-admin/blob/main/scripts/create_user.sh) – adds a Linux user, sets a password, and assigns sudo privileges (lab exercise)
+- Firewall Setup Script: [setup_firewall.sh](https://github.com/jarade254/jared-linux-admin/blob/main/scripts/setup_firewall.sh) – sets default deny rules, allows SSH, lab exercise
+
 
 
 ### Troubleshooting Diary
